@@ -1,4 +1,0 @@
-[submodule "mkblog/public"]
-	path = mkblog/public
-	url = https://github.com/MeetKothari/meetkothari.github.io.git
-	branch = main
